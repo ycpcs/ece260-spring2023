@@ -12,7 +12,8 @@ var courseInfo = {
     // The following is for the college-scheduled final exam.
     // It is not used if final is on last day of class"
     finalExamDates: [
-        new FinalExamDay("Final Exam (cumulative)", "101/102", new Date("05/12/2022 8:00:00"))
+        new FinalExamDay("Final Exam (cumulative)", "102", new Date("05/09/2023 12:45:00")),
+        new FinalExamDay("Final Exam (cumulative)", "101", new Date("05/11/2023 8:00:00"))
     ],
 
 
