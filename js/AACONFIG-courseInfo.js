@@ -120,10 +120,10 @@ var courseInfo = {
         {
             topic: new Topic( "Basics of Cache Memory (continued)", "lectures/lecture18_Basics_of_Cache_Memory.pdf" )
         },
-       {
+        {
            topic: new Topic( "Associative & Set-Associative Caching" ),
            reading: new Reading("Assign #19 § 5.4")
-       },
+        },
         {
             topic: new Topic( "Review for Exam #3" )
         },
