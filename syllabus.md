@@ -90,10 +90,10 @@ Your grade in this course will be a weighted average based on the following weig
 according to the table below.
 
   - Reading Activities: **10%**
-  - Homework Assignments: **10%**
-  - Lab Assignments: **15%**
-  - Exams: **45% (3 @ 15% each)**
-  - Final Exam: **20%**
+  - Homework Assignments: **12%**
+  - Lab Assignments: **18%**
+  - Exams: **60% (3 @ 20% each)**
+  - Final Exam: **Optional; can replace lowest exam grade**
 
 | Range             |  Grade   |
 |:-----------------:|:--------:|
@@ -159,8 +159,9 @@ and submit two or more programming assignments by their assigned due date will r
 Three exams will be given during the semester. These exams will be closed book and closed notes. 
 Exams will cover all material up to that point in the semester. 
 **No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or 
-illness is provided.**  Additionally, a final exam will be given at the end of the semester. All final exams will be 
-in the course lecture room during the final exam period scheduled by the college ([link](https://www.ycp.edu/academics/final-exam-schedules/)).
+illness is provided.** A final exam will be given at the end of the semester. This exam is optional and can replace 
+your lowest exam grade. All final exams will be in the course lecture room during the final exam period scheduled by 
+the college ([link](https://www.ycp.edu/academics/final-exam-schedules/)).
 
 **You must receive a score of 70+ on _at least one exam_ to pass the course.**
 
