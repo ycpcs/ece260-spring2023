@@ -82,7 +82,7 @@ var courseInfo = {
         {
             topic: new Topic( "Datapath for a Simplified Processor", "lectures/lecture13_Datapath_for_a_Simplified_Processor.pdf" ),
             reading: new Reading("Assign #12 §§ 4.1 - 4.3"),
-            assign: new Homework("Homework #6", "homework/Homework_Assignment_6.txt", 12)
+            assign: new Homework("Homework #6", "homework/Homework_Assignment_6.txt", 7)
         },
         {
             topic: new Topic( "Datapath for a Simplified Processor (continued)", "lectures/lecture13_Datapath_for_a_Simplified_Processor.pdf" ),
@@ -91,7 +91,7 @@ var courseInfo = {
         {
             topic: new Topic( "Pipelining", "lectures/lecture14_Pipelining.pdf" ),
             reading: new Reading("Assign #14 § 4.6"),
-            assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 9)
+            assign: new Homework("Homework #7", "homework/Homework_Assignment_7.txt", 12)
         },
         {
             topic: new Topic( "Pipelined Datapath and Control", "lectures/lecture15_Pipelined_Datapath_and_Control.pdf" ),
