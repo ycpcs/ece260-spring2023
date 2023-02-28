@@ -17,9 +17,9 @@ Week of Jan 30 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.h
 Week of Feb 6  |  [Computer Architecture](labs/lab02.html)                              |  1 week after assigned
 Week of Feb 13 |  [Intro to MIPS Assembly](labs/lab03.html)                             |  1 week after assigned
 Week of Feb 20 |  [Branching and Conditional Assembly](labs/lab04.html)                 |  1 week after assigned
+Week of Feb 27 |  [MIPS Procedures](labs/lab05.html)                                    |  1 week after assigned
 
 <!-- 
-Week of Feb 27 |  [MIPS Procedures](labs/lab05.html)                                    |  1 week after assigned
 Week of Mar 6  |  **NO LAB**                                                            |
 Week of Mar 13 |  [More MIPS Procedures](labs/lab06.html)                               |  2 weeks after assigned
 Week of Mar 20 |  (continue work on Lab06)                                              |
